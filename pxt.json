@@ -1,0 +1,56 @@
+{
+    "name": "Vexed- Platformer - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "sprite-scaling": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.27",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "theme": {
+        "background-color": "#2e2e2e",
+        "button-fill": "#94B5B4",
+        "button-stroke": "#39535C",
+        "dpad-fill": "#1a1a1a",
+        "text-color": "#39535C"
+    },
+    "palette": [
+        "#000000",
+        "#E6EDEA",
+        "#39535C",
+        "#FFFFFF",
+        "#0F2036",
+        "#A4A4A4",
+        "#94B5B4",
+        "#929292",
+        "#808080",
+        "#6D6D6D",
+        "#5B5B5B",
+        "#494949",
+        "#373737",
+        "#242424",
+        "#121212",
+        "#000000"
+    ]
+}
